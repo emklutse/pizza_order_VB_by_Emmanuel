@@ -1,0 +1,12 @@
+C:\Users\Emmanuel Klutse\source\repos\chap5\review16_casestudy\review16_casestudy\bin\Debug\review16_casestudy.exe.config
+C:\Users\Emmanuel Klutse\source\repos\chap5\review16_casestudy\review16_casestudy\bin\Debug\review16_casestudy.exe
+C:\Users\Emmanuel Klutse\source\repos\chap5\review16_casestudy\review16_casestudy\bin\Debug\review16_casestudy.pdb
+C:\Users\Emmanuel Klutse\source\repos\chap5\review16_casestudy\review16_casestudy\bin\Debug\review16_casestudy.xml
+C:\Users\Emmanuel Klutse\source\repos\chap5\review16_casestudy\review16_casestudy\obj\Debug\review16_casestudy.vbprojAssemblyReference.cache
+C:\Users\Emmanuel Klutse\source\repos\chap5\review16_casestudy\review16_casestudy\obj\Debug\review16_casestudy.Form1.resources
+C:\Users\Emmanuel Klutse\source\repos\chap5\review16_casestudy\review16_casestudy\obj\Debug\review16_casestudy.Resources.resources
+C:\Users\Emmanuel Klutse\source\repos\chap5\review16_casestudy\review16_casestudy\obj\Debug\review16_casestudy.vbproj.GenerateResource.cache
+C:\Users\Emmanuel Klutse\source\repos\chap5\review16_casestudy\review16_casestudy\obj\Debug\review16_casestudy.vbproj.CoreCompileInputs.cache
+C:\Users\Emmanuel Klutse\source\repos\chap5\review16_casestudy\review16_casestudy\obj\Debug\review16_casestudy.exe
+C:\Users\Emmanuel Klutse\source\repos\chap5\review16_casestudy\review16_casestudy\obj\Debug\review16_casestudy.xml
+C:\Users\Emmanuel Klutse\source\repos\chap5\review16_casestudy\review16_casestudy\obj\Debug\review16_casestudy.pdb
